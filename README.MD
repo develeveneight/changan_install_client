@@ -1,7 +1,7 @@
 # Changan Install Client Source Code
 
 Welcome to the source code repository of the **Changan Install** client.
-
+### [Download client binaries](https://github.com/develeveneight/changa_install_client/releases)
 ## Important Information
 
 The `tools` folder applications have been removed from the project. Please add them manually as needed.
