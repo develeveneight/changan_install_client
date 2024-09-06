@@ -1,0 +1,1 @@
+platform-tools apps like adb and fastboot for client

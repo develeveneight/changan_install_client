@@ -1,0 +1,13 @@
+apk/*
+apk/!.gitignore
+tools/*
+tools/!.gitignore
+!.gitignore
+.idea
+installed_apks.json
+/.env
+CERT/*
+venv
+dist
+nuitka-crash-report.xml
+Nuitka
