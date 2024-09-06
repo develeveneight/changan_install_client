@@ -9,7 +9,7 @@ from sys import exit
 import requests
 from tqdm import tqdm
 
-from helpers.lang import en, ru, zh, ar, pt, es, tr, id
+from helpers.lang import en, ru, zh
 
 
 # TODO: Add docstring dor methods
@@ -22,17 +22,6 @@ def set_language():
         return ru
     elif _lang == 'zh':
         return zh
-    elif _lang == 'ar':
-        return ar
-    elif _lang == 'pt':
-        return pt
-    elif _lang == 'es':
-        return es
-    elif _lang == 'tr':
-        return tr
-    elif _lang == 'id':
-        return id
-
 
 lang = set_language()
 
