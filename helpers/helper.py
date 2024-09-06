@@ -23,6 +23,7 @@ def set_language():
     elif _lang == 'zh':
         return zh
 
+
 lang = set_language()
 
 
