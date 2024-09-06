@@ -3,7 +3,7 @@ apk/!.gitignore
 tools/*
 tools/!.gitignore
 !.gitignore
-.idea
+.idea/
 installed_apks.json
 /.env
 CERT/*
